@@ -1,0 +1,1 @@
+The factory pattern is used to create objects without exposing the creation logic to the client and to refer to the newly created object using a common interface.
