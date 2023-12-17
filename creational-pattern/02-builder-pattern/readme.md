@@ -1,0 +1,1 @@
+the builder pattern separates the construction of a complex object from its representation. it's like having a personal chef who prepares your burger step by step, just the way you like it.
